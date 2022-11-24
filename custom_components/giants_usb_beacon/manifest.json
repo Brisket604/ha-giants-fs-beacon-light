@@ -1,0 +1,9 @@
+{
+  "domain": "giants_usb_beacon",
+  "name": "GIANTS USB Beacon Light Orange",
+  "documentation": "https://github.com/liper918/ha-giants-fs-beacon-light/blob/main/README.md",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["hidapi==0.12.0.post2","pip==21.3.1","setuptools==60.2.0","wheel==0.37.1"],
+  "version": "0.1.0"
+}
